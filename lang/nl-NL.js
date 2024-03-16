@@ -29,10 +29,12 @@ export default () => {
         play_title: 'Waar sgeit de geit?',
         play_text:
           'We laten een geit los op het voetbalveld, dan is het afwachten... Waar sgeit de geit? Heeft de geit zijn behoefte gedaan op jouw vaknummer? Dan wint u een mooie prijs!',
-        card_title: 'U heeft gekozen voor vaknummer',
+        card_title: 'U heeft gekozen voor vak',
         card_text:
           'Denkt u dat de geit hier sgeit? Koop dan dit vak en als de geit daadwerkelijk hier sgeit, dan wint u een mooie prijs! Dit vak bestaat uit ongeveer',
         card_choose: 'Koop vak ',
+        card_remove: 'Verwijderen',
+        buy_other: 'Koop nog een vak',
         about2_title: 'Hoe Werkt Het?',
         about2_prijzen_title: 'Prijzen',
         about2_prijzen_text:
@@ -51,15 +53,16 @@ export default () => {
         age_question2:
           'Vul je geboortedatum in om toegang te krijgen tot de website',
         header_basket: 'Winkelmandje',
-        header_basket_checkout: 'Bestellen',
+        header_basket_checkout: 'Afrekenen',
         header_basket_empty: 'Uw winkelmandje is leeg.',
-        checkout: 'Bestellen',
+        checkout: 'Afrekenen',
         checkout_step1: 'Bestelling',
         checkout_step2: 'Uw gegevens',
         checkout_step3: 'Betalen',
         checkout_product: 'Product',
         checkout_price: 'Prijs',
         checkout_quantity: 'Hoeveelheid',
+        checkout_remove: 'Verwijderen',
         checkout_shipping: 'Verzendkosten',
         checkout_free_shipping:
           'Gratis verzendkosten bij een bestelling van € 75,- ',
@@ -119,7 +122,9 @@ export default () => {
         footer_country: 'Nederland',
         more: 'Meer',
         header_shops: 'Verkooppunten',
-        read_more: 'Meer Lezen'
+        read_more: 'Meer Lezen',
+        status: 'Status van uw bestelling',
+        checkout_error_btn: 'Opnieuw proberen'
       }
     })
   })

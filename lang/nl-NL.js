@@ -20,15 +20,19 @@ export default () => {
         close: 'Sluiten'
       },
       wsdg: {
+        'header_#100': 'V.V.Succes 100 Jaar!',
         'header_#play': 'Doe mee!',
         'header_#about': 'Hoe werkt het?',
         'header_#wieringen': 'Wieringen',
         'header_#route': 'Route',
         header_contact: 'Contact',
         get_tickets: 'Doe mee!',
+        about_title: 'V.V. Succes 100 Jaar!',
+        about_text:
+          'Op 17 mei 2024 bestaat V.V. Succes 100 jaar, en dat vieren we! Doe mee met ons jubileumspel en win mooie prijzen!',
         play_title: 'Waar sgeit de geit?',
         play_text:
-          'We laten een geit los op het voetbalveld, dan is het afwachten... Waar sgeit de geit? Heeft de geit zijn behoefte gedaan op jouw vaknummer? Dan wint u een mooie prijs!',
+          'Waar sgeit de geit? Selecteer een vak op het voetbalveld om deze te kopen. Als de geit zijn behoefte doet op jouw vak, dan win je een mooie prijs! Vakken met een rood kruis zijn al verkocht of gereserveerd.',
         card_title: 'U heeft gekozen voor vak',
         card_text:
           'Denkt u dat de geit hier sgeit? Koop dan dit vak en als de geit daadwerkelijk hier sgeit, dan wint u een mooie prijs! Dit vak bestaat uit ongeveer',
@@ -44,7 +48,7 @@ export default () => {
           'We laten een geit los op het voetbalveld, dan is het afwachten... Waar sgeit de geit? Heeft de geit zijn behoefte gedaan op jouw vaknummer? Dan wint u een mooie prijs!',
         about2_geit_title: 'De geit',
         about2_geit_text:
-          'We laten een geit los op het voetbalveld, dan is het afwachten... Waar sgeit de geit? Heeft de geit zijn behoefte gedaan op jouw vaknummer? Dan wint u een mooie prijs!',
+          'Ontmoet [geitnaam] de geit. [geitnaam] is een [ras] en is [leeftijd] jaar oud. [geitnaam] is een echte [ras] en is gek op [eten].',
         product_btn: 'Toevoegen aan winkelmand',
         product_out_of_stock: 'Binnenkort verkrijgbaar!',
         view_product: 'Bestellen',
@@ -124,7 +128,12 @@ export default () => {
         header_shops: 'Verkooppunten',
         read_more: 'Meer Lezen',
         status: 'Status van uw bestelling',
-        checkout_error_btn: 'Opnieuw proberen'
+        checkout_error_btn: 'Opnieuw proberen',
+        card_title_not_available: 'Dit vak is niet beschikbaar',
+        card_text_not_available:
+          'Dit vak is al door iemand anders gekozen, kies een ander vak.',
+        some_products_not_available:
+          'Sommige vakken in uw winkelmand zijn niet meer beschikbaar'
       }
     })
   })

@@ -29,23 +29,24 @@ export default () => {
         get_tickets: 'Doe mee!',
         about_title: 'V.V. Succes 100 Jaar!',
         about_text:
-          'Op 17 mei 2024 bestaat V.V. Succes 100 jaar, en dat vieren we! Doe mee met ons jubileumspel en win mooie prijzen!',
+          'Op 17 mei 2024 bestaat V.V. Succes 100 jaar, en dat vieren we! Doe mee met het spel en win € 1.000!',
         play_title: 'Waar sgeit de geit?',
         play_text:
-          'Waar sgeit de geit? Selecteer een vak op het voetbalveld om deze te kopen. Als de geit zijn behoefte doet op jouw vak, dan win je een mooie prijs! Vakken met een rood kruis zijn al verkocht of gereserveerd.',
+          'Waar sgeit de geit? Selecteer een vak op het voetbalveld om deze te kopen. Als de geit zijn behoefte doet op jouw vak, dan win je € 1.000! Vakken met een rood kruis zijn al verkocht of gereserveerd.',
         card_title: 'U heeft gekozen voor vak',
+        card_text_soon: '12 april start het spel en kunt u dit vak kopen!',
         card_text:
-          'Denkt u dat de geit hier sgeit? Koop dan dit vak en als de geit daadwerkelijk hier sgeit, dan wint u een mooie prijs! Dit vak bestaat uit ongeveer',
+          'Denkt u dat de geit hier sgeit? Koop dan dit vak en als de geit daadwerkelijk hier sgeit, dan win je € 1.000! Dit vak bestaat uit ongeveer',
         card_choose: 'Koop vak ',
         card_remove: 'Verwijderen',
         buy_other: 'Koop nog een vak',
         about2_title: 'Hoe Werkt Het?',
         about2_prijzen_title: 'Prijzen',
         about2_prijzen_text:
-          'We laten een geit los op het voetbalveld, dan is het afwachten... Waar sgeit de geit? Heeft de geit zijn behoefte gedaan op jouw vaknummer? Dan wint u een mooie prijs!',
+          'We laten een geit los op het voetbalveld, dan is het afwachten... Waar sgeit de geit? Heeft de geit zijn behoefte gedaan op jouw vaknummer? Dan win je € 1.000!',
         about2_spel_title: 'Het spel',
         about2_spel_text:
-          'We laten een geit los op het voetbalveld, dan is het afwachten... Waar sgeit de geit? Heeft de geit zijn behoefte gedaan op jouw vaknummer? Dan wint u een mooie prijs!',
+          'We laten een geit los op het voetbalveld, dan is het afwachten... Waar sgeit de geit? Heeft de geit zijn behoefte gedaan op jouw vaknummer? Dan win je € 1.000!',
         about2_geit_title: 'De geit',
         about2_geit_text:
           'Ontmoet [geitnaam] de geit. [geitnaam] is een [ras] en is [leeftijd] jaar oud. [geitnaam] is een echte [ras] en is gek op [eten].',

@@ -33,7 +33,7 @@ export default () => {
         play_title: 'Waar sgeit de geit?',
         play_text:
           'Waar sgeit de geit? Selecteer een vak op het voetbalveld om deze te kopen. Als de geit zijn behoefte doet op jouw vak, dan win je € 1.000! Vakken met een rood kruis zijn al verkocht of gereserveerd.',
-        card_title: 'U heeft gekozen voor vak',
+        card_title: 'U heeft gekozen voor',
         card_text_soon: '12 april start het spel en kunt u dit vak kopen!',
         card_text:
           'Denkt u dat de geit hier sgeit? Koop dan dit vak en als de geit daadwerkelijk hier sgeit, dan win je € 1.000! Dit vak bestaat uit ongeveer',

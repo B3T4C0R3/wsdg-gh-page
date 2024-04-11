@@ -29,27 +29,27 @@ export default () => {
         get_tickets: 'Doe mee!',
         about_title: 'V.V. Succes 100 Jaar!',
         about_text:
-          'Op 17 mei 2024 bestaat V.V. Succes 100 jaar, en dat vieren we! Doe mee met het spel en win € 1.000!',
+          'Op 17 mei 2024 bestaat V.V. Succes 100 jaar, en dat vieren we! Doe mee met het spel en win € 750!',
         play_title: 'Waar sgeit de geit?',
         play_text:
-          'Waar sgeit de geit? Selecteer een vak op het voetbalveld om deze te kopen. Als de geit zijn behoefte doet op jouw vak, dan win je € 1.000! Vakken met een rood kruis zijn al verkocht of gereserveerd.',
+          'Waar sgeit de geit? Selecteer een vak op het voetbalveld om deze te kopen. Als de geit zijn behoefte doet op jouw vak, dan win je € 750! Vakken met een rood kruis zijn al verkocht of gereserveerd.',
         card_title: 'U heeft gekozen voor',
         card_text_soon: '12 april start het spel en kunt u dit vak kopen!',
         card_text:
-          'Denkt u dat de geit hier sgeit? Koop dan dit vak en als de geit daadwerkelijk hier sgeit, dan win je € 1.000! Dit vak bestaat uit ongeveer',
+          'Denkt u dat de geit hier sgeit? Koop dan dit vak en als de geit daadwerkelijk hier sgeit, dan win je € 750!',
         card_choose: 'Koop vak ',
         card_remove: 'Verwijderen',
         buy_other: 'Koop nog een vak',
         about2_title: 'Hoe Werkt Het?',
         about2_prijzen_title: 'Prijzen',
         about2_prijzen_text:
-          'We laten een geit los op het voetbalveld, dan is het afwachten... Waar sgeit de geit? Heeft de geit zijn behoefte gedaan op jouw vaknummer? Dan win je € 1.000!',
+          'We laten een geit los op het voetbalveld, dan is het afwachten... Waar sgeit de geit? Heeft de geit zijn behoefte gedaan op jouw vaknummer? Dan win je € 750!',
         about2_spel_title: 'Het spel',
         about2_spel_text:
-          'We laten een geit los op het voetbalveld, dan is het afwachten... Waar sgeit de geit? Heeft de geit zijn behoefte gedaan op jouw vaknummer? Dan win je € 1.000!',
+          'We laten een geit los op het voetbalveld, dan is het afwachten... Waar sgeit de geit? Heeft de geit zijn behoefte gedaan op jouw vaknummer? Dan win je € 750!',
         about2_geit_title: 'De geit',
         about2_geit_text:
-          'Ontmoet [geitnaam] de geit. [geitnaam] is een [ras] en is [leeftijd] jaar oud. [geitnaam] is een echte [ras] en is gek op [eten].',
+          'De huisgeit stamt af van de wilde geit: de Bezoargeit, de Priscageit en de Schroefhoorngeit. Deze geiten leefden in het wild in landen aan de Middellandse Zee. Zij dienden als landbouwhuisdier en produceerden melk, vlees, huiden en mest. De geit is één van onze oudste huisdieren. Geiten zijn sobere dieren (stellen niet veel eisen). Daarom werden zij vroeger vaak door arme mensen gehouden, in plaats van koeien. Maar de geit is wel kieskeurig. Zij eet graag gras, kruiden, groenten, plantenscheuten, bladeren en boomschors.',
         product_btn: 'Toevoegen aan winkelmand',
         product_out_of_stock: 'Binnenkort verkrijgbaar!',
         view_product: 'Bestellen',

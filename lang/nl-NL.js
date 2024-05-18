@@ -33,6 +33,8 @@ export default () => {
         play_title: 'Waar sgeit de geit?',
         play_text:
           'Selecteer een vak op het voetbalveld om deze te kopen. Als de geit zijn behoefte doet op jouw vak, dan win je € 750! Vakken met een rood kruis zijn al verkocht of gereserveerd. Tijdens het jubileumfeest op 18 mei 2024 wordt de winnaar bekend gemaakt.',
+        play_text_winner:
+          'Het spel is afgelopen. De geit heeft gescheten op vak nummer 40! Wij feliciteren de winnaar en bedanken iedereen voor hun deelname!',
         card_title: 'U heeft gekozen voor',
         card_text_soon: '12 april start het spel en kunt u dit vak kopen!',
         card_text_finished: 'Het spel is afgelopen, bedankt voor uw deelname!',
